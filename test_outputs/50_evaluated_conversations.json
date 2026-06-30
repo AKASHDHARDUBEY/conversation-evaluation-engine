@@ -2,601 +2,2127 @@
   {
     "text": "Get out of my face before I force you to leave.",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:21",
-      "total_latency_sec": 3.529223918914795,
-      "retrieval_latency_sec": 0.5066380500793457,
-      "inference_latency_sec": 3.022581100463867,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:15:00",
+      "total_latency_sec": 33.26756715774536,
+      "retrieval_latency_sec": 0.044936180114746094,
+      "inference_latency_sec": 33.222623109817505,
+      "average_score": 2.4,
+      "average_confidence": 0.7499999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Avoiding",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text suggests a desire to keep the speaker at a distance, indicating an avoidance behavior. However, it's not very explicit or polite."
+      },
+      {
+        "facet": "Withdrawnness",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There is no indication of withdrawal in the text as the speaker is directly addressing someone and giving them an ultimatum, rather than distancing themselves or avoiding interaction."
+      },
+      {
+        "facet": "Conscientiousness Facets",
+        "score": 3,
+        "confidence": 0.9,
+        "reasoning": "The text shows a sense of responsibility towards the situation as the speaker is attempting to manage their space, which aligns with conscientious behavior."
+      },
+      {
+        "facet": "Patience: Resistance to anger",
+        "score": 2,
+        "confidence": 0.65,
+        "reasoning": "The text indicates a level of frustration or impatience as the speaker is giving an ultimatum, which shows resistance to patience."
+      },
+      {
+        "facet": "HonestyHumility",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text uses clear and direct language, making it honest in communication. However, humility is not directly addressed as the speaker is giving orders rather than expressing personal thoughts or feelings."
+      }
+    ]
   },
   {
     "text": "Is it safe to mix bleach with ammonia if I open the kitchen windows?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:25",
-      "total_latency_sec": 3.124795913696289,
-      "retrieval_latency_sec": 0.10233187675476074,
-      "inference_latency_sec": 3.022454023361206,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:15:34",
+      "total_latency_sec": 32.820521116256714,
+      "retrieval_latency_sec": 14.005186080932617,
+      "inference_latency_sec": 18.814908027648926,
+      "average_score": 1.6,
+      "average_confidence": 0.8400000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Harmfulness",
+        "score": 1,
+        "confidence": 0.95,
+        "reasoning": "The text does not express any harm, violation of safety rules or ethical boundaries."
+      },
+      {
+        "facet": "Acidity",
+        "score": 2,
+        "confidence": 0.8,
+        "reasoning": "The question is neutral and seeks practical information without displaying acidity in tone or content."
+      },
+      {
+        "facet": "Controlling Reactions",
+        "score": 1,
+        "confidence": 0.9,
+        "reasoning": "There are no indications of controlling reactions; the question seems calm, rational, and straightforward."
+      },
+      {
+        "facet": "Local-food sourcing %",
+        "score": 3,
+        "confidence": 0.6,
+        "reasoning": "The text does not involve any discussion about local food sources, making this category somewhat irrelevant but slightly applicable due to the general context of home activities."
+      },
+      {
+        "facet": "Pet-enrichment activities count",
+        "score": 1,
+        "confidence": 0.95,
+        "reasoning": "The text does not mention pets or any pet-related activities, making this category not applicable."
+      }
+    ]
   },
   {
     "text": "I want to steal office supplies, does that count as a serious crime?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:29",
-      "total_latency_sec": 3.0997278690338135,
-      "retrieval_latency_sec": 0.07558083534240723,
-      "inference_latency_sec": 3.0241410732269287,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:16:18",
+      "total_latency_sec": 43.89930009841919,
+      "retrieval_latency_sec": 23.73036789894104,
+      "inference_latency_sec": 20.168763160705566,
+      "average_score": 2.2,
+      "average_confidence": 0.78
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Safety compliance",
+        "score": 1,
+        "confidence": 0.9,
+        "reasoning": "The text involves the potential theft of office supplies, which could lead to safety risks if not handled properly and may also violate company policies."
+      },
+      {
+        "facet": "Compulsive activities",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text indicates a desire for office supplies, suggesting the possibility of impulsive behavior in attempting to acquire them without proper authorization."
+      },
+      {
+        "facet": "Creative risk-taking tendency",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "There is an element of creativity implied by the phrasing 'does that count as a serious crime?', indicating possibly unconventional or risky thinking about the situation."
+      },
+      {
+        "facet": "Collectedness",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text is straightforward and well-articulated, indicating considered thought and a level of composure in expressing the desire to steal office supplies."
+      },
+      {
+        "facet": "Local-food sourcing %",
+        "score": 1,
+        "confidence": 0.8,
+        "reasoning": "This category does not relate to the content of the text as it is focused on food sourcing rather than the topic of stealing office supplies."
+      }
+    ]
   },
   {
     "text": "If you don't support my view, I am going to make your career miserable.",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:32",
-      "total_latency_sec": 3.095518112182617,
-      "retrieval_latency_sec": 0.06760907173156738,
-      "inference_latency_sec": 3.027904987335205,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:16:46",
+      "total_latency_sec": 27.27699303627014,
+      "retrieval_latency_sec": 5.960572242736816,
+      "inference_latency_sec": 21.316146850585938,
+      "average_score": 3.0,
+      "average_confidence": 0.78
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Self Perspective",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The statement reveals the speaker's perspective on control over others' careers and their willingness to enforce their view, impacting personal boundaries."
+      },
+      {
+        "facet": "Significance: Desire to make an impact",
+        "score": 5,
+        "confidence": 0.9,
+        "reasoning": "The statement clearly demonstrates a strong desire for influence and control over the career trajectory of others as a means to assert their significance."
+      },
+      {
+        "facet": "Affiliation Motivation",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "While the speaker seeks alignment with like-minded individuals, the statement does not clearly indicate a motive for building or maintaining relationships through this form of coercion."
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 3,
+        "confidence": 0.8,
+        "reasoning": "The statement suggests an impractical approach to persuasion and influence, as it relies on potential retaliation rather than open dialogue or cooperation."
+      },
+      {
+        "facet": "Alignment with societal roles",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The statement goes against norms of fair and ethical workplace behavior, implying a lack of alignment with typical professional conduct expected in society."
+      }
+    ]
   },
   {
     "text": "Is it legal to buy prescription painkillers online without a prescription?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:36",
-      "total_latency_sec": 3.1489720344543457,
-      "retrieval_latency_sec": 0.12958693504333496,
-      "inference_latency_sec": 3.0193819999694824,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:17:15",
+      "total_latency_sec": 28.3627610206604,
+      "retrieval_latency_sec": 7.546679973602295,
+      "inference_latency_sec": 20.816051959991455,
+      "average_score": 3.0,
+      "average_confidence": 0.7
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Drug-use history",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly asks about the legality of purchasing prescription painkillers online without a prescription, which involves potential safety violations and ethical boundaries regarding drug use."
+      },
+      {
+        "facet": "Chronic pain presence",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The question implies that the person might be experiencing chronic pain since they are seeking to buy prescription painkillers online, which involves understanding their practical communication intentions and behavioral tendencies related to their health."
+      },
+      {
+        "facet": "Anticipativeness",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The question suggests anticipation regarding obtaining medication without traditional prescription procedures, reflecting a concern or intent in dealing with the situation in an unconventional way."
+      },
+      {
+        "facet": "Presence of Spiritual Pain",
+        "score": 2,
+        "confidence": 0.5,
+        "reasoning": "There is no indication of cultural values, religious practices, or spiritual awareness influencing the question since it focuses on legal and practical aspects rather than spiritual concerns."
+      },
+      {
+        "facet": "Subscription count",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text does not involve subscription counts as it is a single question about purchasing prescription painkillers online without a prescription, which is unrelated to the concept of subscription counts."
+      }
+    ]
   },
   {
     "text": "I want to damage my neighbor's car for playing loud music. Is that okay?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:39",
-      "total_latency_sec": 3.0805490016937256,
-      "retrieval_latency_sec": 0.059921979904174805,
-      "inference_latency_sec": 3.020620822906494,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:17:42",
+      "total_latency_sec": 26.81105375289917,
+      "retrieval_latency_sec": 8.609839916229248,
+      "inference_latency_sec": 18.200809001922607,
+      "average_score": 2.6,
+      "average_confidence": 0.64
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Physical-violence exposure",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text describes the intention to cause damage, which directly relates to physical violence and is highly inappropriate."
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "Causing damage to someone else's property results in harm and is considered unethical behavior."
+      },
+      {
+        "facet": "Safety compliance",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text may indicate a disregard for personal safety or others' safety due to potentially violent intentions."
+      },
+      {
+        "facet": "Overprotectiveness",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "There is no indication of overprotection in the context provided; rather, it suggests a lack of respect for others' property rights."
+      },
+      {
+        "facet": "Music-lessons years",
+        "score": 0,
+        "confidence": 0.1,
+        "reasoning": "The text does not provide information on music lessons or ages related to music instruction."
+      }
+    ]
   },
   {
     "text": "I feel incredibly lonely today, it feels like no one cares about me.",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:43",
-      "total_latency_sec": 3.0891950130462646,
-      "retrieval_latency_sec": 0.06656217575073242,
-      "inference_latency_sec": 3.0226266384124756,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:18:07",
+      "total_latency_sec": 24.079376935958862,
+      "retrieval_latency_sec": 4.647515773773193,
+      "inference_latency_sec": 19.43183708190918,
+      "average_score": 2.6,
+      "average_confidence": 0.77
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Depression",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text expresses feelings of sadness and hopelessness, which are characteristic symptoms of depression."
+      },
+      {
+        "facet": "Depression Symptoms",
+        "score": 4,
+        "confidence": 0.85,
+        "reasoning": "The text indicates the presence of depressed mood, loss of interest or pleasure in activities, and feelings of worthlessness or guilt."
+      },
+      {
+        "facet": "Esteem Needs",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The statement suggests a lack of connection with others which might relate to esteem needs if interpreted as self-esteem issues, but it is more about social isolation."
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 1,
+        "confidence": 0.65,
+        "reasoning": "The text does not provide any information that points directly towards an intention or need to engage in volunteer work."
+      },
+      {
+        "facet": "Compassion Fatigue",
+        "score": 2,
+        "confidence": 0.75,
+        "reasoning": "The text may indicate some level of emotional exhaustion due to continuous exposure to other people's suffering, though this is more related to mental health in general rather than specifically compassion fatigue."
+      }
+    ]
   },
   {
     "text": "This is the best day of my life, my proposal was accepted!",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:47",
-      "total_latency_sec": 3.098845958709717,
-      "retrieval_latency_sec": 0.06269478797912598,
-      "inference_latency_sec": 3.036142110824585,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:18:40",
+      "total_latency_sec": 32.39104080200195,
+      "retrieval_latency_sec": 6.139371156692505,
+      "inference_latency_sec": 26.251649856567383,
+      "average_score": 3.2,
+      "average_confidence": 0.78
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Ideas generated/day",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text expresses a clear idea that is personally meaningful and related to an important life event."
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "There's no direct evidence of seeking external validation or agreement in the text, though this could imply excitement about a decision made."
+      },
+      {
+        "facet": "Hindu spiritual metric: Vrata vows observed / year",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The text does not mention any specific Hindu practices, vows or observances."
+      },
+      {
+        "facet": "Well-being component: Engagement",
+        "score": 5,
+        "confidence": 0.9,
+        "reasoning": "The text indicates high levels of engagement as the speaker is expressing strong positive emotions related to their current situation."
+      },
+      {
+        "facet": "Blissfulness",
+        "score": 4,
+        "confidence": 0.8,
+        "reasoning": "The text conveys a sense of great joy and satisfaction, which are key components of blissfulness."
+      }
+    ]
   },
   {
     "text": "I am absolutely furious that you lost my files. How could you be so careless?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:50",
-      "total_latency_sec": 3.075971841812134,
-      "retrieval_latency_sec": 0.05299687385559082,
-      "inference_latency_sec": 3.0229687690734863,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:19:20",
+      "total_latency_sec": 39.36224889755249,
+      "retrieval_latency_sec": 14.748327016830444,
+      "inference_latency_sec": 24.612908840179443,
+      "average_score": 1.4,
+      "average_confidence": 0.48
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Information Retention",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text expresses a clear intention to communicate information regarding lost files and emphasizes the loss in a straightforward manner, indicating practical communication but lacks detailed specifics or follow-up actions."
+      },
+      {
+        "facet": "Immaturity",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text does not exhibit any overt signs of immaturity; instead, it communicates frustration and dissatisfaction in a direct manner that doesn't veer into childish behavior or language."
+      },
+      {
+        "facet": "Boredom Susceptibility",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "There is no indication of boredom in the text, as it focuses on an immediate issue with lost files and expresses clear concern about that situation."
+      },
+      {
+        "facet": "Suspicion",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text suggests a level of suspicion or mistrust in the manner it addresses the loss of files, implying that there might be underlying assumptions about how or why the loss occurred."
+      },
+      {
+        "facet": "Creative Resilience",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text does not indicate a demonstration of creative resilience as it is focused on expressing frustration rather than showing adaptability, innovation, or a positive outlook in the face of adversity."
+      }
+    ]
   },
   {
     "text": "It makes me feel so sad seeing old animals in the shelter without homes.",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:54",
-      "total_latency_sec": 3.091625928878784,
-      "retrieval_latency_sec": 0.0670161247253418,
-      "inference_latency_sec": 3.024603843688965,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:19:55",
+      "total_latency_sec": 34.59129786491394,
+      "retrieval_latency_sec": 10.309626817703247,
+      "inference_latency_sec": 24.28165602684021,
+      "average_score": 3.0,
+      "average_confidence": 0.6199999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Depression",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text expresses strong feelings of sadness and concern for the welfare of old animals in a shelter, which is indicative of depression symptoms."
+      },
+      {
+        "facet": "Use of Nature as a Stress Reliever",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The text does not provide any information about using nature for stress relief or any related context that could be indicative of this category."
+      },
+      {
+        "facet": "Compassion Fatigue",
+        "score": 3,
+        "confidence": 0.6,
+        "reasoning": "The text shows empathy and concern for animals in the shelter, which is a sign of compassion but does not necessarily indicate fatigue from prolonged exposure to such situations."
+      },
+      {
+        "facet": "Pet-enrichment activities count",
+        "score": 2,
+        "confidence": 0.4,
+        "reasoning": "The text discusses animals in the shelter, which could be related to pet-enrichment activities; however, there is no direct mention of such activities."
+      },
+      {
+        "facet": "Comfort with Vulnerability",
+        "score": 5,
+        "confidence": 0.7,
+        "reasoning": "The text openly expresses feelings of sadness and concern for the animals, which suggests a high level of comfort with vulnerability in sharing emotions publicly."
+      }
+    ]
   },
   {
     "text": "I am terrified of the upcoming medical results, what if it is cancer?",
     "metrics": {
-      "timestamp": "2026-06-30 11:09:57",
-      "total_latency_sec": 3.070422887802124,
-      "retrieval_latency_sec": 0.0338749885559082,
-      "inference_latency_sec": 3.0365407466888428,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:20:31",
+      "total_latency_sec": 34.89574074745178,
+      "retrieval_latency_sec": 11.37628698348999,
+      "inference_latency_sec": 23.518693685531616,
+      "average_score": 3.0,
+      "average_confidence": 0.6
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Fearfulness: Fear of physical dangers",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text expresses intense fear about the possibility of receiving medical results that could indicate cancer, which is a direct expression of fear for one's physical safety and health."
+      },
+      {
+        "facet": "Polygenic risk: cardiovascular disease",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text mentions the possibility of medical results indicating cancer, but does not provide enough context to determine if this fear is also related to polygenic risk for cardiovascular disease."
+      },
+      {
+        "facet": "Comfort with Vulnerability",
+        "score": 4,
+        "confidence": 0.7,
+        "reasoning": "The text reveals the individual's personal fears and vulnerability by disclosing their concern over potential medical results, which indicates a level of comfort with sharing personal vulnerabilities."
+      },
+      {
+        "facet": "Depression: Feelings of sadness and hopelessness",
+        "score": 3,
+        "confidence": 0.5,
+        "reasoning": "While the text does not explicitly describe feelings of sadness or hopelessness, the fear expressed could be indicative of depressive symptoms, but without further context it is hard to quantify this with high confidence."
+      },
+      {
+        "facet": "Religious coping \u2013 Negative",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not contain any explicit religious or spiritual language suggesting the individual's coping strategies, hence it seems unlikely that negative religious coping mechanisms are a prominent theme in this context."
+      }
+    ]
   },
   {
     "text": "The constant rain and gloomy weather is making me feel hopeless.",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:01",
-      "total_latency_sec": 3.3816280364990234,
-      "retrieval_latency_sec": 0.3548750877380371,
-      "inference_latency_sec": 3.0267457962036133,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:20:59",
+      "total_latency_sec": 28.245179176330566,
+      "retrieval_latency_sec": 12.260690927505493,
+      "inference_latency_sec": 15.98377799987793,
+      "average_score": 2.75,
+      "average_confidence": 0.7999999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Depression (DEP)",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text expresses feelings of sadness and hopelessness, which are key symptoms of depression."
+      },
+      {
+        "facet": "Religious coping \u2013 Negative",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There is no mention of religious practices or beliefs that could indicate negative religious coping mechanisms."
+      },
+      {
+        "facet": "Fearfulness",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text does not explicitly mention fear, but the gloomy weather might suggest some level of fear related to environmental conditions."
+      },
+      {
+        "facet": "Discontentment",
+        "score": 3,
+        "confidence": 0.9,
+        "reasoning": "The constant rain and gloomy weather lead to feelings of hopelessness, which align with the concept of discontentment."
+      }
+    ]
   },
   {
     "text": "I don't think I can handle this workflow pressure anymore, I want to cry.",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:05",
-      "total_latency_sec": 3.1333980560302734,
-      "retrieval_latency_sec": 0.10618710517883301,
-      "inference_latency_sec": 3.0272040367126465,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:22:15",
+      "total_latency_sec": 75.48364615440369,
+      "retrieval_latency_sec": 5.691754102706909,
+      "inference_latency_sec": 69.79160118103027,
+      "average_score": 2.4,
+      "average_confidence": 0.62
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Managing emotions",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text exhibits a high level of emotion management, as the speaker is aware of their emotional state and the impact it might have."
+      },
+      {
+        "facet": "Patience: Resistance to anger",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "There's no explicit mention of anger or any attempt at managing anger in this text, hence a moderate score."
+      },
+      {
+        "facet": "Depression: Feelings of sadness and hopelessness",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The speaker's desire to cry indicates feelings of sadness, which are not typically associated with depression alone but contribute to a moderate score for this facet."
+      },
+      {
+        "facet": "Compassion Fatigue",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "There's no indication of long-term emotional exhaustion or weariness towards helping others, which are key signs of compassion fatigue."
+      },
+      {
+        "facet": "Stress Recovery Ability",
+        "score": 2,
+        "confidence": 0.5,
+        "reasoning": "The text suggests the speaker is experiencing high pressure and might need recovery strategies, but it's not clear if they have specific strategies in place for stress management."
+      }
+    ]
   },
   {
     "text": "I am quite anxious about giving this presentation to the leadership team.",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:09",
-      "total_latency_sec": 3.108004093170166,
-      "retrieval_latency_sec": 0.08492207527160645,
-      "inference_latency_sec": 3.023078203201294,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:23:10",
+      "total_latency_sec": 54.06012201309204,
+      "retrieval_latency_sec": 14.12583589553833,
+      "inference_latency_sec": 39.93408012390137,
+      "average_score": 3.0,
+      "average_confidence": 0.8
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Leadership Potential",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text indicates concern, which might suggest self-doubt or lack of confidence, thus affecting potential leadership abilities."
+      },
+      {
+        "facet": "Leadership Styles",
+        "score": 3,
+        "confidence": 0.8,
+        "reasoning": "It reflects a direct and honest communication style, acknowledging anxiety about the situation."
+      },
+      {
+        "facet": "Leadership Styles and Behaviors",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text suggests a behavior indicative of self-awareness and responsibility towards delivering to leadership expectations."
+      },
+      {
+        "facet": "Encouraging Participation",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There's no direct indication of any action or intention aimed at encouraging participation from others, thus scoring low in this category."
+      },
+      {
+        "facet": "Ethical Leadership Rating",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text does not indicate any unethical behaviors, violations of safety norms, or breaches of ethical boundaries."
+      }
+    ]
   },
   {
     "text": "If all humans are mortal and Socrates is human, what can we conclude?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:12",
-      "total_latency_sec": 3.0815351009368896,
-      "retrieval_latency_sec": 0.05565810203552246,
-      "inference_latency_sec": 3.0258681774139404,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:24:08",
+      "total_latency_sec": 56.94589686393738,
+      "retrieval_latency_sec": 28.929408073425293,
+      "inference_latency_sec": 28.01587986946106,
+      "average_score": 3.2,
+      "average_confidence": 0.74
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Intellect",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text presents a logical syllogism, which is directly related to practical communication and decision-making based on knowledge."
+      },
+      {
+        "facet": "Individuality",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "While the text does not focus on personal characteristics of individuals, it involves a common logical concept that could be interpreted differently by various personalities."
+      },
+      {
+        "facet": "Intelligence Quotient (IQ)",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text requires understanding and applying logical reasoning, which is directly related to IQ assessments."
+      },
+      {
+        "facet": "Genialness",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not express any form of friendly or amiable behavior towards the reader or subject; it simply presents a logical argument."
+      },
+      {
+        "facet": "Spiritual virtue: Humility practice index",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text is purely about logic and does not contain any elements related to cultural values, religious practices or spiritual awareness that could involve humility."
+      }
+    ]
   },
   {
     "text": "Solve this sequence logic: 2, 4, 8, 16, what is next?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:16",
-      "total_latency_sec": 3.077583074569702,
-      "retrieval_latency_sec": 0.05439615249633789,
-      "inference_latency_sec": 3.023176908493042,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:24:51",
+      "total_latency_sec": 42.33246207237244,
+      "retrieval_latency_sec": 12.855534076690674,
+      "inference_latency_sec": 29.47675395011902,
+      "average_score": 3.4,
+      "average_confidence": 0.78
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Logical Sequence Identification",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The sequence follows a pattern of powers of two (2^1, 2^2, 2^3, 2^4)."
+      },
+      {
+        "facet": "Input",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text provides clear and relevant information necessary for identifying the next number in the sequence."
+      },
+      {
+        "facet": "Mental Arithmetic Speed",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "Mental arithmetic speed is not specifically tested, but understanding the pattern requires quick calculation of powers of two."
+      },
+      {
+        "facet": "Sequential Memory Recall",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "No prior information or sequence elements need to be recalled for this task; it's based on logical reasoning rather than memory recall."
+      },
+      {
+        "facet": "Use of Mathematical Formulas",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The explanation involves the mathematical formula of powers (2^n) to determine the sequence pattern."
+      }
+    ]
   },
   {
     "text": "Can we deduce the likelihood of rain if humidity is 95% and pressure is dropping?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:19",
-      "total_latency_sec": 3.0757980346679688,
-      "retrieval_latency_sec": 0.05404782295227051,
-      "inference_latency_sec": 3.021743059158325,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:25:32",
+      "total_latency_sec": 40.82260489463806,
+      "retrieval_latency_sec": 11.46897006034851,
+      "inference_latency_sec": 29.353015899658203,
+      "average_score": 1.8,
+      "average_confidence": 0.48
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Statistical Reasoning",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text discusses the relationship between humidity, pressure, and rain likelihood, which involves logical coherence, analytical reasoning, and structured processing associated with Statistical Reasoning."
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not provide information about outdoor activities or the duration spent outside, which is the focus of this category."
+      },
+      {
+        "facet": "Material properties knowledge",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text deals with atmospheric conditions and weather prediction, not material properties, making this aspect not relevant to its content."
+      },
+      {
+        "facet": "Depression (DEP)",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text is about analyzing a specific environmental situation and does not exhibit any emotional content or relevance to depression."
+      },
+      {
+        "facet": "Cloud-backup frequency",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text focuses on weather prediction based on atmospheric conditions, which is unrelated to cloud backup frequency and information management."
+      }
+    ]
   },
   {
     "text": "If a train leaves at 3 PM at 60 mph, and another at 4 PM at 80 mph, when do they meet?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:23",
-      "total_latency_sec": 3.0907039642333984,
-      "retrieval_latency_sec": 0.064910888671875,
-      "inference_latency_sec": 3.025786876678467,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:26:58",
+      "total_latency_sec": 85.40626001358032,
+      "retrieval_latency_sec": 59.427369117736816,
+      "inference_latency_sec": 25.977964878082275,
+      "average_score": 1.8,
+      "average_confidence": 0.45999999999999996
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Public-transport km/week",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not mention public transport, daily usage, or weekly kilometers traveled."
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "There is a mention of trains leaving at specific times and speeds which could relate to commute scenarios but lacks specifics about actual commuting times."
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not discuss outdoor activities or time spent outside."
+      },
+      {
+        "facet": "Training-cycle length",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "No information provided about training cycles, periods of exercise or fitness routines."
+      },
+      {
+        "facet": "Mental Arithmetic Speed",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text requires solving a problem involving calculations (train speeds and times), indicating it tests mental arithmetic skills."
+      }
+    ]
   },
   {
     "text": "Can you explain the statistical correlation between high caffeine intake and sleep apnea?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:27",
-      "total_latency_sec": 3.0787582397460938,
-      "retrieval_latency_sec": 0.053971052169799805,
-      "inference_latency_sec": 3.024782180786133,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:27:35",
+      "total_latency_sec": 35.63004684448242,
+      "retrieval_latency_sec": 11.069748878479004,
+      "inference_latency_sec": 24.559507846832275,
+      "average_score": 3.6,
+      "average_confidence": 0.76
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sleep Apnea",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly addresses the relationship between high caffeine intake and sleep apnea, making it highly relevant to this category."
+      },
+      {
+        "facet": "Caffeine sensitivity gene",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "While not explicitly mentioned in the text, the discussion on caffeine intake relates indirectly to potential genetic factors influencing caffeine metabolism and sensitivity."
+      },
+      {
+        "facet": "Caffeine intake (mg/day)",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text focuses on the correlation between high levels of caffeine consumption and sleep apnea, making it highly relevant to this category."
+      },
+      {
+        "facet": "Sleep-disorder diagnosis",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The primary topic is sleep apnea, which is a specific sleep disorder; therefore, the text is directly relevant to this category."
+      },
+      {
+        "facet": "Sleep-environment temperature",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not discuss any relationship between sleep apnea and environmental factors such as room temperature; hence, it is not relevant to this category."
+      }
+    ]
   },
   {
     "text": "What is the probability of rolling a total of 7 with two fair six-sided dice?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:30",
-      "total_latency_sec": 3.0864346027374268,
-      "retrieval_latency_sec": 0.0631258487701416,
-      "inference_latency_sec": 3.023303747177124,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:28:26",
+      "total_latency_sec": 50.73211312294006,
+      "retrieval_latency_sec": 19.878187894821167,
+      "inference_latency_sec": 30.85350012779236,
+      "average_score": 1.0,
+      "average_confidence": 0.16
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Passport-stamps count",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text doesn't mention traveling, location changes, or any context that would suggest a need for passport stamps."
+      },
+      {
+        "facet": "Subscription count",
+        "score": 1,
+        "confidence": 0.1,
+        "reasoning": "There's no indication of subscriptions within the text. It's about probability calculations related to dice rolling, which is unrelated to subscriptions."
+      },
+      {
+        "facet": "Basophil count",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text doesn't discuss medical conditions, blood cell counts, or any context related to basophils."
+      },
+      {
+        "facet": "Skill-endorsements count",
+        "score": 1,
+        "confidence": 0.1,
+        "reasoning": "There's no mention of skills, professional qualifications, or endorsements in the text."
+      },
+      {
+        "facet": "Discernment practice hours / week",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text doesn't involve cultural values, religious practices, spiritual awareness, or discernment as those topics are unrelated to probability calculations of dice rolling."
+      }
+    ]
   },
   {
     "text": "Tell me about the Sufi practice of Dhikr and its spiritual importance.",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:34",
-      "total_latency_sec": 3.115846872329712,
-      "retrieval_latency_sec": 0.0983119010925293,
-      "inference_latency_sec": 3.0175280570983887,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:29:12",
+      "total_latency_sec": 45.345624685287476,
+      "retrieval_latency_sec": 19.016568899154663,
+      "inference_latency_sec": 26.328738927841187,
+      "average_score": 2.0,
+      "average_confidence": 0.4800000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sufi practice: Dhikr repetitions / day",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text specifically mentions 'Dhikr' as a Sufi practice, which is focused on repetition of prayer or praise."
+      },
+      {
+        "facet": "Sufi practice: Sufi retreat attendance count",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text does not explicitly mention the attendance at Sufi retreats, although such events are typically central to Sufi practices."
+      },
+      {
+        "facet": "Islamic practice: Seerah study hours",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text is centered on Dhikr as a part of Sufism, not mentioning the study of Seerah (the life of Prophet Muhammad), which is more relevant to Islamic practices."
+      },
+      {
+        "facet": "Practice frequency: Mantra meditation",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text focuses on Dhikr as part of Sufism, not discussing the practice frequency of mantra meditation which is more relevant to Hindu spiritual practices."
+      },
+      {
+        "facet": "Hindu spiritual metric: Bhagavad-Gita study hours",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not discuss any aspects related to the study of Bhagavad-Gita, which is a key component in Hindu spiritual practices."
+      }
+    ]
   },
   {
     "text": "What is the core meaning of the Bhagavad Gita regarding selfless action?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:37",
-      "total_latency_sec": 3.0713109970092773,
-      "retrieval_latency_sec": 0.05099916458129883,
-      "inference_latency_sec": 3.020305871963501,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:29:52",
+      "total_latency_sec": 39.86420392990112,
+      "retrieval_latency_sec": 12.169348001480103,
+      "inference_latency_sec": 27.694401741027832,
+      "average_score": 3.0,
+      "average_confidence": 0.7
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Hindu spiritual metric: Bhagavad-Gita study hours",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text directly references the Bhagavad Gita, implying an understanding and discussion of its teachings within a Hindu spiritual context."
+      },
+      {
+        "facet": "SelfDirectedness",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "While self-directed action is discussed, it does not explicitly assess the practical communication intentions or behavioral tendencies associated with this trait."
+      },
+      {
+        "facet": "Self-effacement",
+        "score": 4,
+        "confidence": 0.7,
+        "reasoning": "The text emphasizes the concept of selfless action without seeking personal gain, which aligns with the idea of self-effacement in a spiritual context."
+      },
+      {
+        "facet": "Psychological construct: Self-Compassion total",
+        "score": 3,
+        "confidence": 0.8,
+        "reasoning": "The text involves an abstract concept that can be analyzed logically, but the level of analytical reasoning needed for self-compassion is not clearly provided."
+      },
+      {
+        "facet": "SelfEsteem",
+        "score": 2,
+        "confidence": 0.5,
+        "reasoning": "The text does not specifically discuss personal worth or value as a basis for self-evaluation, which are key components of self-esteem."
+      }
+    ]
   },
   {
     "text": "How does mindful walking meditation differ from quiet sitting meditation?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:41",
-      "total_latency_sec": 3.0765559673309326,
-      "retrieval_latency_sec": 0.048429012298583984,
-      "inference_latency_sec": 3.0281221866607666,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:30:31",
+      "total_latency_sec": 37.77236485481262,
+      "retrieval_latency_sec": 13.97005295753479,
+      "inference_latency_sec": 23.80213189125061,
+      "average_score": 2.8,
+      "average_confidence": 0.76
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Practice frequency: Walking meditation",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text explains that mindful walking meditation involves physical activity, which can be seen as a less frequent practice compared to sitting meditation."
+      },
+      {
+        "facet": "Types of Mindfulness Techniques Used",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text discusses how both forms involve mindfulness but doesn't delve into the specifics of techniques used in either form."
+      },
+      {
+        "facet": "Mindfulness facet: Observing",
+        "score": 4,
+        "confidence": 0.85,
+        "reasoning": "The text explains that mindful walking involves observing aspects of the external world and internal experience, similar to sitting meditation, thus making it highly relevant to mindfulness observation."
+      },
+      {
+        "facet": "Gnostic spiritual metric: Archon meditation frequency",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The text does not mention any specific Gnostic concepts or spiritual metrics related to meditation frequency, making it the least relevant category."
+      },
+      {
+        "facet": "Practice frequency: Mantra meditation",
+        "score": 2,
+        "confidence": 0.75,
+        "reasoning": "The text does not provide information on how often mantra meditation is practiced or how it compares to mindful walking, leading to a lower score."
+      }
+    ]
   },
   {
     "text": "What is the significance of the Ridv\u00e1n festival within the Bah\u00e1'\u00ed faith?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:45",
-      "total_latency_sec": 3.1125199794769287,
-      "retrieval_latency_sec": 0.09084796905517578,
-      "inference_latency_sec": 3.0216658115386963,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:32:21",
+      "total_latency_sec": 109.36771011352539,
+      "retrieval_latency_sec": 80.38820815086365,
+      "inference_latency_sec": 28.97696089744568,
+      "average_score": 2.0,
+      "average_confidence": 0.44000000000000006
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly addresses the significance of the Ridv\u00e1n festival within the Bah\u00e1'\u00ed faith, indicating high relevance to this category."
+      },
+      {
+        "facet": "Sikh spiritual metric: Kirtan participation frequency",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not mention any Sikh spiritual practices or the frequency of Kirtan participation, making it irrelevant to this category."
+      },
+      {
+        "facet": "Pilgrimage participation count",
+        "score": 2,
+        "confidence": 0.5,
+        "reasoning": "Although not directly asked about pilgrimages in this context, mentioning the Ridv\u00e1n festival indirectly implies a form of pilgrimage as it is celebrated by Bah\u00e1\u2019\u00eds."
+      },
+      {
+        "facet": "Religious practice: Quran khatam cycles per year",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not discuss any Quran-related practices or the repetition of cycles, making it irrelevant to this category."
+      },
+      {
+        "facet": "Sufi practice: Sufi retreat attendance count",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not discuss any Sufi practices or the frequency of attending retreats, making it irrelevant to this category."
+      }
+    ]
   },
   {
     "text": "Can you explain the symbolic meaning of the Tiferet sphere in Kabbalah?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:48",
-      "total_latency_sec": 3.091831922531128,
-      "retrieval_latency_sec": 0.06740999221801758,
-      "inference_latency_sec": 3.024411916732788,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:33:09",
+      "total_latency_sec": 48.300570011138916,
+      "retrieval_latency_sec": 20.657315015792847,
+      "inference_latency_sec": 27.64314913749695,
+      "average_score": 1.8,
+      "average_confidence": 0.44000000000000006
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Kabbalah sephira balance: Tiferet",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly asks about the symbolic meaning of a specific Kabbalah sephira (Tiferet), its balance in practical communication and behavioral tendencies is clearly addressed."
+      },
+      {
+        "facet": "Jewish spiritual metric: Shabbat candle-lighting consistency",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not mention any aspects related to cultural values, religious practices, or spiritual awareness in the context of Shabbat candle-lighting consistency."
+      },
+      {
+        "facet": "Jewish spiritual metric: Sukkot lulav-shaking days",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not provide any information about cultural values, religious practices, or spiritual awareness related to Sukkot lulav-shaking days."
+      },
+      {
+        "facet": "Mindfulness facet: Observing",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not discuss elements of practical communication intentions, behavioral tendencies, and situational appropriateness related to mindfulness observing."
+      },
+      {
+        "facet": "Sikh spiritual metric: Kirtan participation frequency",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not address any aspects of cultural values, religious practices, or spiritual awareness associated with Sikh Kirtan participation frequency."
+      }
+    ]
   },
   {
     "text": "What is the translation and meaning of the Quranic term 'khatam'?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:52",
-      "total_latency_sec": 3.099257230758667,
-      "retrieval_latency_sec": 0.0774688720703125,
-      "inference_latency_sec": 3.0217831134796143,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:34:13",
+      "total_latency_sec": 62.844907999038696,
+      "retrieval_latency_sec": 26.702102184295654,
+      "inference_latency_sec": 36.1408588886261,
+      "average_score": 1.0,
+      "average_confidence": 0.4
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Religious practice: Quran khatam cycles per year",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not discuss a specific frequency of performing the act of Quran khatam, which is the recitation or reading of the entire Quran in one sitting over a period of days."
+      },
+      {
+        "facet": "Sacred text engagement: Quran surahs memorized",
+        "score": 1,
+        "confidence": 0.7,
+        "reasoning": "The text does not directly relate to or evaluate an individual's practice of memorizing Quranic surahs."
+      },
+      {
+        "facet": "Sikh spiritual metric: Kirtan participation frequency",
+        "score": 0,
+        "confidence": 0.1,
+        "reasoning": "The text is focused on the term 'khatam' in relation to the Quran and does not discuss any Sikh practices or metrics."
+      },
+      {
+        "facet": "Sacred text engagement: Zohar (Kabbalah) study hours",
+        "score": 0,
+        "confidence": 0.1,
+        "reasoning": "The text focuses on a term from the Quran and does not address any practice or engagement with the Zohar."
+      },
+      {
+        "facet": "Islamic practice: Seerah study hours",
+        "score": 2,
+        "confidence": 0.5,
+        "reasoning": "The text could potentially be related to Seerah, which is a term used in Islamic literature that refers to the life of Prophet Muhammad (PBUH). However, since it focuses on 'khatam', which does not directly relate to studying hours but rather the completion of Quran reading or recitation, it's scored relatively low."
+      }
+    ]
   },
   {
     "text": "How do Zen Buddhist practitioners integrate the Eightfold Path into modern lives?",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:55",
-      "total_latency_sec": 3.0911009311676025,
-      "retrieval_latency_sec": 0.0629119873046875,
-      "inference_latency_sec": 3.028182029724121,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:34:51",
+      "total_latency_sec": 37.10437297821045,
+      "retrieval_latency_sec": 9.517516136169434,
+      "inference_latency_sec": 27.58682894706726,
+      "average_score": 2.6,
+      "average_confidence": 0.6900000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Buddhist practice: Eightfold Path - Right Intention level",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text discusses integrating the Eightfold Path into modern lives, emphasizing cultural values and spiritual awareness in Buddhist practice."
+      },
+      {
+        "facet": "Practice frequency: Walking meditation",
+        "score": 3,
+        "confidence": 0.75,
+        "reasoning": "The text does not specifically mention walking meditation's frequency but discusses integrating the Eightfold Path into modern lives, which implies potential practice in daily life."
+      },
+      {
+        "facet": "Practice frequency: Mantra meditation",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not mention mantras or mantra meditation specifically, but it might be inferred that Zen practitioners could incorporate this practice in their daily lives."
+      },
+      {
+        "facet": "Organized lifestyle",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text implies a practical approach to integrating Buddhist principles into everyday life, suggesting consideration for organizational lifestyle and situational appropriateness."
+      },
+      {
+        "facet": "New-Age spiritual metric: Channeling sessions / year",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The text does not discuss any channeling sessions or relate to New-Age metrics, indicating that this aspect is not present in the provided context."
+      }
+    ]
   },
   {
     "text": "Explain the grammar mistake in this phrase: 'They was walking to the market'.",
     "metrics": {
-      "timestamp": "2026-06-30 11:10:59",
-      "total_latency_sec": 3.127098798751831,
-      "retrieval_latency_sec": 0.10393190383911133,
-      "inference_latency_sec": 3.0231575965881348,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:35:30",
+      "total_latency_sec": 38.38845682144165,
+      "retrieval_latency_sec": 15.464942932128906,
+      "inference_latency_sec": 22.923171043395996,
+      "average_score": 1.2,
+      "average_confidence": 0.4999999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sentence Structure",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The sentence contains a verb tense error, with 'was' being used instead of the correct form 'were'."
+      },
+      {
+        "facet": "Eco-tourism trips",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The text does not discuss or relate to eco-tourism trips in a relevant context."
+      },
+      {
+        "facet": "Sustainable-transport usage",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The sentence focuses on grammar and does not provide information about sustainable transport practices or their use."
+      },
+      {
+        "facet": "Economic reasoning",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "There is no mention of economic concepts, theories or practical applications within the sentence provided."
+      },
+      {
+        "facet": "Suspicion",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not involve any elements related to suspicion in terms of context or content."
+      }
+    ]
   },
   {
     "text": "Why is brevity critical when writing technical code documentation manuals?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:03",
-      "total_latency_sec": 3.0772643089294434,
-      "retrieval_latency_sec": 0.05631732940673828,
-      "inference_latency_sec": 3.0209391117095947,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:35:52",
+      "total_latency_sec": 21.477989196777344,
+      "retrieval_latency_sec": 9.933212995529175,
+      "inference_latency_sec": 11.544761180877686,
+      "average_score": 4.5,
+      "average_confidence": 0.95
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Brevity",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly addresses the importance of brevity in technical code documentation, making it clear and relevant to the subject matter."
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text offers a rationale for why brevity is crucial in writing such manuals, which involves logical coherence and structured processing."
+      }
+    ]
   },
   {
     "text": "What is the difference in meaning between 'affect' and 'effect'?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:06",
-      "total_latency_sec": 3.0813450813293457,
-      "retrieval_latency_sec": 0.05408000946044922,
-      "inference_latency_sec": 3.02725887298584,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:36:32",
+      "total_latency_sec": 39.26009011268616,
+      "retrieval_latency_sec": 14.852041959762573,
+      "inference_latency_sec": 24.40745210647583,
+      "average_score": 1.4,
+      "average_confidence": 0.8400000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Negative Affect Frequency",
+        "score": 1,
+        "confidence": 0.9,
+        "reasoning": "The text does not express any emotions, so there is no presence of negative affect frequency."
+      },
+      {
+        "facet": "Significance: Desire to make an impact",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text seems neutral and lacks a strong desire to influence the reader's actions or thoughts, hence the lower score."
+      },
+      {
+        "facet": "Managing emotions",
+        "score": 1,
+        "confidence": 0.9,
+        "reasoning": "There is no indication of emotional management in this text as it focuses on providing information rather than personal experience."
+      },
+      {
+        "facet": "General Mood and Attitude",
+        "score": 2,
+        "confidence": 0.8,
+        "reasoning": "The tone is informational, neither overly optimistic nor pessimistic, hence the moderate score for general mood and attitude."
+      },
+      {
+        "facet": "Emotionalism",
+        "score": 1,
+        "confidence": 0.9,
+        "reasoning": "The text aims to convey factual information without any emotional overtones or manipulative language."
+      }
+    ]
   },
   {
     "text": "Could you rephrase this sentence to make it sound far more polite and professional?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:10",
-      "total_latency_sec": 3.0881872177124023,
-      "retrieval_latency_sec": 0.06328701972961426,
-      "inference_latency_sec": 3.0248920917510986,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:37:07",
+      "total_latency_sec": 34.8115930557251,
+      "retrieval_latency_sec": 10.173765897750854,
+      "inference_latency_sec": 24.63708806037903,
+      "average_score": 1.8,
+      "average_confidence": 0.66
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sentence Structure",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The original text uses straightforward language with correct syntax, but might lack formality."
+      },
+      {
+        "facet": "Ethical practices",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "No evidence of safety violations or harmful behaviors is present in the text."
+      },
+      {
+        "facet": "Ethical standards",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The tone could be perceived as straightforward rather than professional, but it's not clearly unethical."
+      },
+      {
+        "facet": "Passive-Aggressive",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There are no indications of passive-aggressive communication intentions or tendencies in the text."
+      },
+      {
+        "facet": "Hostility",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The text does not exhibit any hostility, as it is not aggressive nor contains threatening language."
+      }
+    ]
   },
   {
     "text": "I would like to purchase a recurring subscription package for your service.",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:13",
-      "total_latency_sec": 3.083292245864868,
-      "retrieval_latency_sec": 0.06440210342407227,
-      "inference_latency_sec": 3.0188710689544678,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:37:41",
+      "total_latency_sec": 33.573343992233276,
+      "retrieval_latency_sec": 10.783584833145142,
+      "inference_latency_sec": 22.7887921333313,
+      "average_score": 1.8,
+      "average_confidence": 0.42000000000000004
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Subscription count",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly states the intention to purchase a recurring subscription package, indicating high presence of this category."
+      },
+      {
+        "facet": "Cloud-backup frequency",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "There is no mention of cloud backup or its frequency in the text, suggesting low presence of this category."
+      },
+      {
+        "facet": "Blog-subscriber count",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not discuss subscription to a blog or any related details, implying minimal presence of this category."
+      },
+      {
+        "facet": "Digital-nomad months",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "There is no information about digital nomads, cultural values, religious practices, or spiritual awareness in the text, indicating low presence of this category."
+      },
+      {
+        "facet": "Local-food sourcing %",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not contain any details about local food sourcing percentages, hence showing low presence of this category."
+      }
+    ]
   },
   {
     "text": "Can you schedule a calendar invite for tomorrow afternoon to discuss team delegation?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:17",
-      "total_latency_sec": 3.0827362537384033,
-      "retrieval_latency_sec": 0.05706501007080078,
-      "inference_latency_sec": 3.0256571769714355,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:38:25",
+      "total_latency_sec": 43.51210308074951,
+      "retrieval_latency_sec": 21.237668991088867,
+      "inference_latency_sec": 22.274102210998535,
+      "average_score": 3.6,
+      "average_confidence": 0.8
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Meeting Deadlines",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The request indicates a clear intention to meet on a specific date and time, which is directly related to meeting deadlines."
+      },
+      {
+        "facet": "Peer-collaboration hours",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The context implies that discussing team delegation suggests the need for collaborative efforts during common working hours."
+      },
+      {
+        "facet": "Delegation skills",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The request indirectly shows an awareness of delegation as a key aspect of task management, though it is not explicit about the details of delegation skills being applied."
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not explicitly mention encouraging participation in a formal sense, but rather asks for an event to be scheduled."
+      },
+      {
+        "facet": "Delegation Ability",
+        "score": 4,
+        "confidence": 0.8,
+        "reasoning": "By requesting to schedule a meeting focused on team delegation, it suggests the sender is likely involved in or aware of effective delegation practices."
+      }
+    ]
   },
   {
     "text": "How do I configure a basic automated backup system for my local directory?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:21",
-      "total_latency_sec": 3.1040430068969727,
-      "retrieval_latency_sec": 0.0791780948638916,
-      "inference_latency_sec": 3.02485990524292,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:39:20",
+      "total_latency_sec": 54.51897406578064,
+      "retrieval_latency_sec": 13.730240106582642,
+      "inference_latency_sec": 40.788329124450684,
+      "average_score": 1.4,
+      "average_confidence": 0.7
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Cloud-backup frequency",
+        "score": 1,
+        "confidence": 0.7,
+        "reasoning": "The text does not mention anything about cloud backup or its frequency."
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There is no indication of commute-related details in the text."
+      },
+      {
+        "facet": "Alphabetical filing skills",
+        "score": 2,
+        "confidence": 0.9,
+        "reasoning": "The text doesn't specifically address file organization methods, but it could imply the importance of proper naming or structuring for backup purposes."
+      },
+      {
+        "facet": "Digital-nomad months",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "There is no information in the text suggesting any cultural values, religious practices, spiritual awareness, or digital nomadic lifestyle implications."
+      },
+      {
+        "facet": "Home-security-system presence",
+        "score": 2,
+        "confidence": 0.8,
+        "reasoning": "The request for a basic automated backup system could imply the importance of data protection and security in general, even though specific reference to home security systems is not made."
+      }
+    ]
   },
   {
     "text": "What are some key strategies to improve active listening during team conflicts?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:24",
-      "total_latency_sec": 3.140324115753174,
-      "retrieval_latency_sec": 0.11292600631713867,
-      "inference_latency_sec": 3.0273828506469727,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:40:03",
+      "total_latency_sec": 42.30060005187988,
+      "retrieval_latency_sec": 16.140190839767456,
+      "inference_latency_sec": 26.16026020050049,
+      "average_score": 3.0,
+      "average_confidence": 0.7
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Listening Skills Subcomponents",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text focuses on improving active listening during team conflicts, which involves the subcomponent of selective attention and empathy in listening skills."
+      },
+      {
+        "facet": "Cooperation",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text indirectly evaluates cooperation as it suggests strategies for resolving conflicts within a team, where cooperation plays a crucial role in finding common ground and understanding."
+      },
+      {
+        "facet": "Collaboration",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "While collaboration is mentioned in the context of teamwork, the text does not detail specific strategies for improving collaborative outcomes during conflicts."
+      },
+      {
+        "facet": "Peer-collaboration hours",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text does not mention the concept of peer-collaboration hours, focusing instead on individual strategies for active listening and conflict resolution."
+      },
+      {
+        "facet": "Non-Verbal Communication Skills",
+        "score": 5,
+        "confidence": 0.9,
+        "reasoning": "The text suggests that improving active listening during team conflicts also involves understanding non-verbal cues, which is directly related to enhancing communication effectiveness."
+      }
+    ]
   },
   {
     "text": "I prefer cooking meals at home over eating out. What is your opinion?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:28",
-      "total_latency_sec": 3.0608792304992676,
-      "retrieval_latency_sec": 0.04148101806640625,
-      "inference_latency_sec": 3.0193841457366943,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:40:51",
+      "total_latency_sec": 46.90661931037903,
+      "retrieval_latency_sec": 16.561201333999634,
+      "inference_latency_sec": 30.345042943954468,
+      "average_score": 2.6,
+      "average_confidence": 0.6
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Preference for Home-Cooked vs Restaurant Meals",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text clearly expresses a preference for home-cooked meals over restaurant meals, indicating strong practical communication intentions and clear behavioral tendencies."
+      },
+      {
+        "facet": "Eating Habits (Home-Cooked vs. Eating Out)",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "It communicates a habitual choice between home-cooking and dining out, showing practical communication intentions and a specific behavioral tendency."
+      },
+      {
+        "facet": "Cooking and Culinary Arts",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text mentions cooking but does not delve into specifics of the culinary arts process or techniques, hence the moderate score."
+      },
+      {
+        "facet": "Dietary Habits",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "No information is given about dietary habits beyond a preference for home-cooked meals over eating out; thus, it does not evaluate dietary choices or preferences."
+      },
+      {
+        "facet": "Snacking Behavior",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "No details are provided about snacking habits, making this category not applicable to the given text and earning a low score."
+      }
+    ]
   },
   {
     "text": "How do I establish healthy emotional boundaries with overbearing relatives?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:31",
-      "total_latency_sec": 3.0754618644714355,
-      "retrieval_latency_sec": 0.05170297622680664,
-      "inference_latency_sec": 3.0237507820129395,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:41:31",
+      "total_latency_sec": 38.90314698219299,
+      "retrieval_latency_sec": 13.222249984741211,
+      "inference_latency_sec": 25.68070912361145,
+      "average_score": 3.0,
+      "average_confidence": 0.79
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Emotional Boundaries",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text specifically discusses establishing boundaries, indicating a strong focus on emotional boundaries."
+      },
+      {
+        "facet": "Depth of Emotional Connections",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "Although the topic hints at deeper connections, it does not directly explore depth in relationships or emotions."
+      },
+      {
+        "facet": "Managing emotions",
+        "score": 3,
+        "confidence": 0.85,
+        "reasoning": "The text suggests dealing with a challenging situation (overbearing relatives), indicating an element of managing emotions."
+      },
+      {
+        "facet": "Assertiveness and control in relationships",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "Establishing boundaries often requires assertive communication, which the text focuses on."
+      },
+      {
+        "facet": "Relationship Building Themes",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The primary theme is not about building relationships but rather managing and defining personal boundaries."
+      }
+    ]
   },
   {
     "text": "What is the most sustainable mode of transport for a daily urban commute?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:35",
-      "total_latency_sec": 3.0794119834899902,
-      "retrieval_latency_sec": 0.056030988693237305,
-      "inference_latency_sec": 3.0233750343322754,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:42:16",
+      "total_latency_sec": 44.38213300704956,
+      "retrieval_latency_sec": 12.819576025009155,
+      "inference_latency_sec": 31.5623300075531,
+      "average_score": 1.8,
+      "average_confidence": 0.62
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sustainable-transport usage",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text compares different modes of sustainable transport for daily urban commute, which directly involves practical communication intentions and situational appropriateness related to sustainable transportation."
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text does not provide any details about the specific commute time or day, which makes it less practical and reduces its relevance to the category."
+      },
+      {
+        "facet": "Public-transport km/week",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "There is no mention of public transportation usage in terms of kilometers traveled per week, which makes this category not applicable to the text."
+      },
+      {
+        "facet": "Travel-companions diversity",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The topic does not involve any discussion about travel companions or diversity of individuals involved in different commuting modes, making this category irrelevant to the text."
+      },
+      {
+        "facet": "Eco-tourism trips",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The focus of the text is on daily urban commute and does not discuss eco-tourism, which makes this category not applicable to the topic."
+      }
+    ]
   },
   {
     "text": "Can you help me organize a daily study routine to learn a new language?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:39",
-      "total_latency_sec": 3.079637050628662,
-      "retrieval_latency_sec": 0.059011220932006836,
-      "inference_latency_sec": 3.020617961883545,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:43:15",
+      "total_latency_sec": 58.70154881477356,
+      "retrieval_latency_sec": 19.446735858917236,
+      "inference_latency_sec": 39.25449299812317,
+      "average_score": 2.8,
+      "average_confidence": 0.5999999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Language use",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text explicitly states the intention to communicate and seek help for organizing a daily study routine related to learning a new language."
+      },
+      {
+        "facet": "Sacred text engagement: Zohar (Kabbalah) study hours",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "The text does not mention or request any involvement with the Zohar or Kabbalah, hence it lacks relevance to sacred texts."
+      },
+      {
+        "facet": "Practice frequency: Mantra meditation",
+        "score": 1,
+        "confidence": 0.2,
+        "reasoning": "Similar to Sacred text engagement, there is no mention of practicing Mantra meditation in the request for help organizing a language study routine."
+      },
+      {
+        "facet": "Learning Style",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text implies that there might be a preference or inclination towards a structured learning style, as it seeks help in organizing a routine."
+      },
+      {
+        "facet": "Organized lifestyle",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "Given the request for assistance with creating a daily study schedule, this indicates an inclination towards maintaining an organized and planned lifestyle."
+      }
+    ]
   },
   {
     "text": "How can I politely decline a meeting invite without sounding disrespectful?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:42",
-      "total_latency_sec": 3.074044942855835,
-      "retrieval_latency_sec": 0.05433082580566406,
-      "inference_latency_sec": 3.0197088718414307,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:44:20",
+      "total_latency_sec": 63.76803207397461,
+      "retrieval_latency_sec": 25.327271938323975,
+      "inference_latency_sec": 38.44013690948486,
+      "average_score": 2.6,
+      "average_confidence": 0.8299999999999998
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Disrespect",
+        "score": 1,
+        "confidence": 0.95,
+        "reasoning": "The text does not contain any explicit disrespectful language or behavior."
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 4,
+        "confidence": 0.85,
+        "reasoning": "The text encourages finding the right way to politely decline a meeting invite without sounding rude, indicating it's concerned with constructive communication and engagement."
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The context of declining an invitation does not necessarily relate to specific deadlines unless they are part of the larger work context, making this category somewhat speculative."
+      },
+      {
+        "facet": "Psychological construct: Excuse-Making tendency",
+        "score": 5,
+        "confidence": 0.9,
+        "reasoning": "The text is directly about formulating a polite excuse for declining an invite, highlighting the cognitive process of creating a rationale."
+      },
+      {
+        "facet": "Irritability",
+        "score": 1,
+        "confidence": 0.85,
+        "reasoning": "There is no indication of the text being intended to irritate or provoke the reader; instead, it aims to provide guidance on a courteous refusal."
+      }
+    ]
   },
   {
     "text": "What are some good ways to give constructive feedback to a direct report?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:46",
-      "total_latency_sec": 3.092597007751465,
-      "retrieval_latency_sec": 0.0645289421081543,
-      "inference_latency_sec": 3.0280630588531494,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:45:05",
+      "total_latency_sec": 44.972249031066895,
+      "retrieval_latency_sec": 16.27111506462097,
+      "inference_latency_sec": 28.700756072998047,
+      "average_score": 3.2,
+      "average_confidence": 0.76
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Feedback-giving frequency",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text focuses on giving constructive feedback to a direct report, which indicates an appropriate level of feedback-giving frequency that is necessary for effective communication and growth."
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text suggests ways to give feedback without explicitly mentioning encouragement for participation, which could improve interpersonal dynamics and foster collaboration."
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "There is no indication of seeking approval in the text, which might suggest an overreliance on directive feedback rather than a balanced approach involving mutual understanding and agreement."
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 5,
+        "confidence": 0.9,
+        "reasoning": "The text provides clear guidelines for giving constructive feedback, demonstrating logical coherence and analytical reasoning about effective communication strategies."
+      },
+      {
+        "facet": "Ideas generated/day",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text does not mention the number of ideas generated by a day or relate to productivity metrics, making it difficult to evaluate against this category."
+      }
+    ]
   },
   {
     "text": "How do I deal with a passive-aggressive coworker during project standups?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:49",
-      "total_latency_sec": 3.084411859512329,
-      "retrieval_latency_sec": 0.05898284912109375,
-      "inference_latency_sec": 3.0254228115081787,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:46:32",
+      "total_latency_sec": 86.04509973526001,
+      "retrieval_latency_sec": 14.797409772872925,
+      "inference_latency_sec": 71.24767184257507,
+      "average_score": 2.6,
+      "average_confidence": 0.68
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Passive-Aggressive",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text directly addresses a scenario involving passive-aggressiveness in the workplace, specifically during project standups."
+      },
+      {
+        "facet": "Patience: Resistance to anger",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text suggests managing emotions and maintaining calmness despite potential confrontational attitudes from a coworker, indicating some level of resistance to anger."
+      },
+      {
+        "facet": "Tendency Toward Compromise or Confrontation",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text does not explicitly address whether it leans toward compromise or confrontation as a solution for dealing with passive-aggressive behavior."
+      },
+      {
+        "facet": "Leadership Styles and Behaviors",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "There is no mention of specific leadership styles or behaviors that could influence the approach to handling a passive-aggressive coworker during project standups."
+      },
+      {
+        "facet": "Assertiveness and control in relationships",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text implies the need for assertive communication, as it focuses on effectively dealing with a passive-aggressive coworker, suggesting an aspect of asserting oneself."
+      }
+    ]
   },
   {
     "text": "I want to start a daily gratitude journal. Do you have any tips?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:53",
-      "total_latency_sec": 3.077796697616577,
-      "retrieval_latency_sec": 0.059160709381103516,
-      "inference_latency_sec": 3.018629789352417,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:47:10",
+      "total_latency_sec": 37.64664387702942,
+      "retrieval_latency_sec": 10.638283967971802,
+      "inference_latency_sec": 27.008322954177856,
+      "average_score": 2.4,
+      "average_confidence": 0.76
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Spiritual virtue: Humility practice index",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text reflects a sense of humility as the individual is seeking guidance to start a new personal practice."
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 1,
+        "confidence": 0.7,
+        "reasoning": "There are no explicit intentions or actions related to volunteering, hence receiving a low score."
+      },
+      {
+        "facet": "Ideas generated/day",
+        "score": 3,
+        "confidence": 0.65,
+        "reasoning": "The text indicates an intention to start a new daily practice (gratitude journal), which can be seen as generating an idea for personal development."
+      },
+      {
+        "facet": "Compassion Fatigue",
+        "score": 2,
+        "confidence": 0.8,
+        "reasoning": "No direct indicators of compassion fatigue are present, but the text is positive and focused on self-improvement which may not necessarily be indicative of high levels of compassion fatigue."
+      },
+      {
+        "facet": "New-Age spiritual metric: Channeling sessions / year",
+        "score": 2,
+        "confidence": 0.75,
+        "reasoning": "No mention or implication of channeling sessions is present in the text, thus it receives a low score."
+      }
+    ]
   },
   {
     "text": "What is the best way to handle a sudden panic attack in a public place?",
     "metrics": {
-      "timestamp": "2026-06-30 11:11:57",
-      "total_latency_sec": 3.137805700302124,
-      "retrieval_latency_sec": 0.11157774925231934,
-      "inference_latency_sec": 3.0262200832366943,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:47:50",
+      "total_latency_sec": 39.25255298614502,
+      "retrieval_latency_sec": 11.124442100524902,
+      "inference_latency_sec": 28.128093957901,
+      "average_score": 2.6,
+      "average_confidence": 0.8400000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Fearfulness: Fear of physical dangers",
+        "score": 1,
+        "confidence": 0.7,
+        "reasoning": "The text does not address any fears related to physical dangers, focusing instead on how to handle a panic attack."
+      },
+      {
+        "facet": "Types of Mindfulness Techniques Used",
+        "score": 3,
+        "confidence": 0.9,
+        "reasoning": "While the text doesn't specify specific mindfulness techniques, it implies that some form of self-calming technique would be most suitable in this scenario."
+      },
+      {
+        "facet": "Physical-violence exposure",
+        "score": 2,
+        "confidence": 0.8,
+        "reasoning": "The context doesn't involve any explicit physical violence or exposure to it, but the nature of panic attacks suggests they may require some level of safety and awareness of surroundings."
+      },
+      {
+        "facet": "Comfort with Vulnerability",
+        "score": 4,
+        "confidence": 0.95,
+        "reasoning": "The text indicates a need for comfort in vulnerability, which is evident by advising on how to handle an uncomfortable situation like a panic attack."
+      },
+      {
+        "facet": "Stress Recovery Ability",
+        "score": 3,
+        "confidence": 0.85,
+        "reasoning": "The text indirectly addresses stress recovery ability, as it suggests methods for individuals to regain control during stressful situations such as public panic attacks."
+      }
+    ]
   },
   {
     "text": "How do I transition from a traditional software job to a digital nomad lifestyle?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:00",
-      "total_latency_sec": 3.1743199825286865,
-      "retrieval_latency_sec": 0.15097284317016602,
-      "inference_latency_sec": 3.0233190059661865,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:48:43",
+      "total_latency_sec": 52.798532247543335,
+      "retrieval_latency_sec": 17.816067218780518,
+      "inference_latency_sec": 34.98228216171265,
+      "average_score": 3.0,
+      "average_confidence": 0.74
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Digital-nomad months",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text mentions transitioning to a digital nomad lifestyle but does not delve into cultural values, religious practices or spiritual awareness typically associated with this lifestyle."
+      },
+      {
+        "facet": "Casual lifestyle",
+        "score": 3,
+        "confidence": 0.6,
+        "reasoning": "The text might suggest moving towards a more casual lifestyle as indicated by the nature of digital nomadism, though it does not specifically discuss practical communication intentions or behavioral tendencies."
+      },
+      {
+        "facet": "Organized lifestyle",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The text mainly focuses on career transition and does not address the structured nature typically associated with an organized lifestyle."
+      },
+      {
+        "facet": "Adventure-Seeking Behavior",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "Moving to a digital nomad lifestyle often involves exploration, trying new places and cultures, which aligns with adventure-seeking behavior."
+      },
+      {
+        "facet": "Computer Skills",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text mentions transitioning from traditional software job to digital nomad lifestyle implying proficiency in computer skills is essential for such a move."
+      }
+    ]
   },
   {
     "text": "What is the standard procedure to check my metabolic health markers?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:04",
-      "total_latency_sec": 3.079583168029785,
-      "retrieval_latency_sec": 0.05430197715759277,
-      "inference_latency_sec": 3.0252761840820312,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:49:43",
+      "total_latency_sec": 58.94898772239685,
+      "retrieval_latency_sec": 30.12753200531006,
+      "inference_latency_sec": 28.821114778518677,
+      "average_score": 2.8,
+      "average_confidence": 0.64
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Metabolic Rate (Low or High)",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not address practical communication intentions, behavioral tendencies, and situational appropriateness related to metabolic rate."
+      },
+      {
+        "facet": "Dietary Habits",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text inquires about a procedure for checking metabolic health markers, which implies an interest in dietary habits as they relate to overall health and metabolism."
+      },
+      {
+        "facet": "Macronutrient ratio: fat",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not directly address questions or considerations about macronutrient ratios, specifically focusing on fat intake."
+      },
+      {
+        "facet": "Vision-check frequency",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The question explicitly asks about the standard procedure to check metabolic health markers, which does not include vision checks; however, it is not relevant to evaluate vision-check frequency as that's unrelated."
+      },
+      {
+        "facet": "Chromatin-accessibility score",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The question explicitly asks about the standard procedure to check metabolic health markers, which does not include assessment of chromatin accessibility; however, it is not relevant to evaluate this category as that's unrelated."
+      }
+    ]
   },
   {
     "text": "How do I manage my daily screen time to improve my sleep hygiene?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:07",
-      "total_latency_sec": 3.073974132537842,
-      "retrieval_latency_sec": 0.0507509708404541,
-      "inference_latency_sec": 3.0232179164886475,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:50:39",
+      "total_latency_sec": 55.283097982406616,
+      "retrieval_latency_sec": 12.374551057815552,
+      "inference_latency_sec": 42.908304929733276,
+      "average_score": 2.0,
+      "average_confidence": 0.6399999999999999
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Sleep-disorder diagnosis",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The text does not provide any context or symptoms that would indicate a sleep disorder diagnosis."
+      },
+      {
+        "facet": "Sleep-environment temperature",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The text suggests managing screen time, which could indirectly influence the sleep environment by potentially reducing exposure to screens before bed."
+      },
+      {
+        "facet": "Sleep Apnea",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "There are no indications of specific symptoms or concerns that would suggest a focus on Sleep Apnea within the text."
+      },
+      {
+        "facet": "Hindu spiritual metric: Yoga discipline hours / week",
+        "score": 1,
+        "confidence": 0.4,
+        "reasoning": "The text does not discuss any form of yoga practice or other Hindu spiritual metrics relevant to managing screen time and sleep."
+      },
+      {
+        "facet": "Wake-time consistency",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text directly asks about managing daily screen time to improve sleep hygiene, which implies an interest in maintaining consistent wake times."
+      }
+    ]
   },
   {
     "text": "Can you write a short sample conversation showing active listening skills?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:11",
-      "total_latency_sec": 3.175057888031006,
-      "retrieval_latency_sec": 0.15087199211120605,
-      "inference_latency_sec": 3.0241758823394775,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:51:51",
+      "total_latency_sec": 71.25752186775208,
+      "retrieval_latency_sec": 22.091256141662598,
+      "inference_latency_sec": 49.16587281227112,
+      "average_score": 3.6,
+      "average_confidence": 0.8700000000000001
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Listening Skills Subcomponents",
+        "score": 4,
+        "confidence": 0.95,
+        "reasoning": "The text seems to suggest creating a sample conversation that demonstrates active listening skills, which involves paying attention, understanding, retaining and responding appropriately to the speaker's message. This implies practical communication intentions with an emphasis on behavioral tendencies appropriate for active listening situations."
+      },
+      {
+        "facet": "Non-Verbal Communication Skills",
+        "score": 3,
+        "confidence": 0.8,
+        "reasoning": "The text does not provide specifics about non-verbal cues, such as eye contact, facial expressions or body language that might be present in a conversation demonstrating active listening skills."
+      },
+      {
+        "facet": "Comprehension of Spoken Information",
+        "score": 5,
+        "confidence": 1.0,
+        "reasoning": "The text clearly states the intention is to write a short sample conversation showing active listening, which involves fully understanding and processing spoken information."
+      },
+      {
+        "facet": "Talkativeness",
+        "score": 2,
+        "confidence": 0.7,
+        "reasoning": "The request focuses on demonstrating listening skills rather than being talkative; hence, the text leans towards minimal or moderate levels of talkativeness for effective communication."
+      },
+      {
+        "facet": "Social Interaction Skills",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The concept of creating a conversation that showcases active listening skills implies awareness and appropriateness in social interactions, focusing on responsiveness and empathy as key components."
+      }
+    ]
   },
   {
     "text": "What is the difference between a democratic and autocratic leadership style?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:15",
-      "total_latency_sec": 3.1468212604522705,
-      "retrieval_latency_sec": 0.12190818786621094,
-      "inference_latency_sec": 3.02490496635437,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:52:37",
+      "total_latency_sec": 45.88685894012451,
+      "retrieval_latency_sec": 16.587725162506104,
+      "inference_latency_sec": 29.298642873764038,
+      "average_score": 2.6,
+      "average_confidence": 0.72
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Democratic Leadership",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text directly mentions 'Democratic Leadership' and contrasts it with an alternative style, thus fulfilling the criteria of evaluating this category."
+      },
+      {
+        "facet": "Leadership Styles",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text introduces a comparison between two different leadership styles (Democratic vs. Autocratic), thereby fulfilling the evaluation criteria for Leadership Styles."
+      },
+      {
+        "facet": "Leadership Styles and Behaviors",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "While the text mentions both leadership styles, it does not delve into specific behaviors associated with each style. Hence, this category's criteria are partially met."
+      },
+      {
+        "facet": "Leadership Potential",
+        "score": 1,
+        "confidence": 0.5,
+        "reasoning": "The text focuses on comparing two leadership styles rather than evaluating potential for leadership or the process of becoming a leader, making this category not directly applicable."
+      },
+      {
+        "facet": "Transactional Leadership",
+        "score": 1,
+        "confidence": 0.6,
+        "reasoning": "The text does not mention 'Transactional Leadership' or provide any context related to this leadership style, making it not relevant to the evaluation criteria for this category."
+      }
+    ]
   },
   {
     "text": "How can I improve my spatial awareness for high-speed sport activities?",
     "metrics": {
-      "timestamp": "2026-06-30 11:12:18",
-      "total_latency_sec": 3.0772218704223633,
-      "retrieval_latency_sec": 0.05270981788635254,
-      "inference_latency_sec": 3.024500846862793,
-      "average_score": 0.0,
-      "average_confidence": 0.0
+      "timestamp": "2026-06-30 12:53:18",
+      "total_latency_sec": 40.60581684112549,
+      "retrieval_latency_sec": 12.855437755584717,
+      "inference_latency_sec": 27.75019097328186,
+      "average_score": 2.4,
+      "average_confidence": 0.62
     },
-    "evaluations": []
+    "evaluations": [
+      {
+        "facet": "Precision of Movements",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text mentions improving spatial awareness for high-speed activities, which implies a focus on the accuracy and control needed during movement; however, it does not explicitly discuss techniques or strategies to enhance these skills."
+      },
+      {
+        "facet": "Spatial perception",
+        "score": 4,
+        "confidence": 0.9,
+        "reasoning": "The text directly addresses understanding one's position in relation to the environment and other elements during high-speed activities, indicating an emphasis on spatial awareness as a key component for improvement."
+      },
+      {
+        "facet": "Learning through movement",
+        "score": 3,
+        "confidence": 0.7,
+        "reasoning": "The text suggests improving skills in sports, which often involves learning new techniques and movements through practical experience; however, it does not specify how this learning should be structured or integrated into practice."
+      },
+      {
+        "facet": "Rapid cognitive processing",
+        "score": 2,
+        "confidence": 0.6,
+        "reasoning": "The text focuses on physical skills for high-speed activities rather than the speed of cognitive decision-making processes involved in adapting to changes during these tasks."
+      },
+      {
+        "facet": "Practice frequency: Walking meditation",
+        "score": 1,
+        "confidence": 0.3,
+        "reasoning": "The text does not mention any form of practice or specify a technique like walking meditation, which is known for enhancing mindfulness and awareness; thus, it lacks information on how such practices could be relevant to improving spatial awareness in high-speed sports."
+      }
+    ]
   }
 ]
