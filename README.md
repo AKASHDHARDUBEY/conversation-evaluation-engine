@@ -46,6 +46,17 @@ The framework uses a two-stage evaluation model to remain highly scalable:
    streamlit run app.py
    ```
 
+### Running with Docker (Alternative Setup)
+
+If you prefer to run the application in a containerized environment:
+1. Ensure Ollama is running on your host machine.
+2. Build and start the containers:
+   ```bash
+   docker-compose up --build
+   ```
+3. Access the Streamlit dashboard at `http://localhost:8501`.
+
+
 ## Repository Structure
 * `preprocess.py`: Cleans raw CSV files and creates metadata mappings.
 * `engine.py`: Handles vector indexing with FAISS, semantic search, and structured LLM calls.
